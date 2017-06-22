@@ -1,4 +1,4 @@
-# deadpixelchecker
+# Dead Pixel Checker
 A simple web app to check for dead pixels.
 
-http://giacomolaw.me/deadpixelchecker/
+Check it out [here](http://giacomolaw.me/deadpixelchecker/).
